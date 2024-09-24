@@ -15,7 +15,8 @@ library(devtools)
 devtools::install_github("KWangLab/IRIS")
 ```
 ## Tutorials
-
+* To reproduce the Nat. Comms. results from Sahni et al., see: https://github.com/KWangLab/IRIS/blob/main/vignettes/IRIS.Rmd
+* To implement IRIS in your own work, see: https://github.com/KWangLab/IRIS/blob/main/vignettes/IRIS.Rmd
 
 ## Sample data availability
 Sample CODEFACS and LIRICS data can be found at https://zenodo.org/records/13172848.
