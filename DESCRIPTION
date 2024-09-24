@@ -3,7 +3,7 @@ Type: Package
 Title: Immunotherapy Resistance cell-cell Interaction Scanner
 Version: 0.1.0
 Description: Infers Immune Checkpoint Blockade (ICB) resistance relevant ligand-receptor interactions from patient deconvolved bulk transcriptomics.
-License: What license is it under?
+License: GPL-3.0 license
 Encoding: UTF-8
 LazyData: true
 Imports: 
