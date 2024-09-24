@@ -35,4 +35,4 @@ Sahni et al. "A machine learning model reveals expansive downregulation of ligan
 2. **Eytan Ruppin** (eytan.ruppin@nih.gov)
 
 ## Acknowledgement(s)
-IRIS figure were created with BioRender.com.
+IRIS figure was created with BioRender.com.
