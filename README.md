@@ -14,6 +14,7 @@ install.packages('devtools')
 library(devtools)
 devtools::install_github("KWangLab/IRIS")
 ```
+## Tutorials
 
 
 ## Sample data availability
